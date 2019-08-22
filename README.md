@@ -8,3 +8,5 @@ A project to demo git 2
 
 # test git using VSC
 
+# merge guna notepad
+
